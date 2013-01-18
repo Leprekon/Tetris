@@ -34,7 +34,7 @@
     <file path="/TimeConverter.as" changelist="158183d9-0cc9-4ca3-af93-ec9cb83a7cf6" time="1358109654812" ignored="false" />
     <file path="/index.template.html" changelist="158183d9-0cc9-4ca3-af93-ec9cb83a7cf6" time="1358282052445" ignored="false" />
     <file path="/a.dummy" changelist="158183d9-0cc9-4ca3-af93-ec9cb83a7cf6" time="1358451178919" ignored="false" />
-    <file path="/GameCanvas3d.as" changelist="158183d9-0cc9-4ca3-af93-ec9cb83a7cf6" time="1358506600535" ignored="false" />
+    <file path="/GameCanvas3d.as" changelist="158183d9-0cc9-4ca3-af93-ec9cb83a7cf6" time="1358508949638" ignored="false" />
     <file path="/Canvas3d.as" changelist="158183d9-0cc9-4ca3-af93-ec9cb83a7cf6" time="1358463019697" ignored="false" />
     <file path="/Dummy.txt" changelist="158183d9-0cc9-4ca3-af93-ec9cb83a7cf6" time="1358372167204" ignored="false" />
     <file path="/Cube3d.as" changelist="158183d9-0cc9-4ca3-af93-ec9cb83a7cf6" time="1358375073652" ignored="false" />
@@ -157,19 +157,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameCanvas3d.as" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="GameCanvas3d.as" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/canvas/GameCanvas3d.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="49" selection-start="1954" selection-end="1954" vertical-scroll-proportion="0.0">
+            <state line="47" column="73" selection-start="1515" selection-end="1515" vertical-scroll-proportion="0.52690166">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BitmapTextureResource.as" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="BitmapTextureResource.as" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../OMG/Alternativa3D/src/alternativa/engine3d/resources/BitmapTextureResource.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="97" column="67" selection-start="4088" selection-end="4088" vertical-scroll-proportion="0.66233766">
+            <state line="80" column="75" selection-start="3415" selection-end="3415" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -610,7 +610,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39829606" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39829606" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -778,16 +778,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/canvas/GameCanvas3d.as">
+    <entry file="file://$PROJECT_DIR$/../OMG/Alternativa3D/src/alternativa/engine3d/resources/BitmapTextureResource.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="49" selection-start="1954" selection-end="1954" vertical-scroll-proportion="0.0">
+        <state line="80" column="75" selection-start="3415" selection-end="3415" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../OMG/Alternativa3D/src/alternativa/engine3d/resources/BitmapTextureResource.as">
+    <entry file="file://$PROJECT_DIR$/src/canvas/GameCanvas3d.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="67" selection-start="4088" selection-end="4088" vertical-scroll-proportion="0.66233766">
+        <state line="47" column="73" selection-start="1515" selection-end="1515" vertical-scroll-proportion="0.52690166">
           <folding />
         </state>
       </provider>

@@ -45,7 +45,9 @@ package canvas {
 			_cubesContainer = new Object3D();
 			_rootContainer.addChild(_cubesContainer);
 
-			_background = new Plane(FIELD_WIDTH * Figure.FIGURE_SIZE * 1.2, FIELD_HEIGHT * Figure.FIGURE_SIZE * 1.2);
+			_background = new Plane(FIELD_WIDTH * 1.3, FIELD_HEIGHT * 1.3);
+			_background.x = _camera.x;
+			_background.z = _camera.z;
 			_background.y = 30;
 			_background.rotationX = Math.PI / 2;
 			var bitmapTextureResource:BitmapTextureResource = new BitmapTextureResource(new BackgroundAsset());
